@@ -1,3 +1,13 @@
+/*
+ * Tommy MacWilliam, 2009
+ * Malden Catholic High School Robotics
+ *
+ * Resuelve is licensed under the 
+ * Creative Commons Attribution-Share Alike 3.0 United States.
+ * For more information, see http://creativecommons.org/licenses/by-sa/3.0/us/
+ *
+ */
+
 #define WALL 0
 #define OPEN 1
 #define START 2
